@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on recording videos with Sapper and Svelte 3
 
-This repository contains code and related materials for [introduction to Sapper and Svelte 3]() video.
+This repository contains code and related materials for [introduction to Sapper and Svelte 3](https://youtu.be/IrvjKpbJFQ4) video.
 
 ## Project description
 
